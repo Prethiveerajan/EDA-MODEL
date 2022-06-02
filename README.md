@@ -69,7 +69,7 @@ df.corr()
 sns.heatmap(df.corr(),annot=True)
 ````
 
-## outut:
+## output:
 ## reading the file:
 ![ot1](https://user-images.githubusercontent.com/94233064/171548515-95848e70-b428-4bbd-9f3f-7115c4dd1b88.png)
 ![ot2](https://user-images.githubusercontent.com/94233064/171548602-10c43584-22e7-4993-98aa-7a38959fe1b7.png)
